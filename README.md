@@ -38,12 +38,12 @@ Each lab folder contains:
 - Lab 2 – VHDL Code for Realizing Logic Gates
 - Lab 3 – VHDL Code for Combinational Circuits (Encoder and Decoder)
 - Lab 4 – VHDL Code for Combinational Circuits (MUX and DEMUX)
-- Lab 5 – To be updated
-- Lab 6 – To be updated
-- Lab 7 – To be updated
-- Lab 8 – To be updated
-- Lab 9 – To be updated
-- Lab 10 – To be updated
+- Lab 5 – VHDL Code for Combinational Circuits — Comparator
+- Lab 6 – VHDL Code for Code Converters (BCD-to-Excess3 and Binary-to-Gray)
+- Lab 7 – VHDL Code for Sequential Circuits — Flip-Flops
+- Lab 8 – VHDL Code for Sequential Circuits — Counters
+- Lab 9 – Program to Implement the Booth Algorithm
+- Lab 10 – Non-Restoring Division Algorithm
 
 ---
 
